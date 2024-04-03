@@ -1,0 +1,45 @@
+/venv
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+01. Assignment.pdf
+01. Inception - Namaste React LIVE. Inception - Namaste React LIVE. Inception - Namaste React LIVE
+02. Chit Chat - Session. Chit Chat - Session. Chit Chat - Session
+03. Assignment - Igniting our App .pdf
+.pnp
+.env
+.pnp.js
+yarn.lock
+recipes_folder
+Food_labels.txt
+ProjectFile.obj
+transfer_learning_IR.py
+ProjectTitle.obj
+Final_mapping.json
+.github
+.eslintcache
+/Job Portal
+# testing
+/coverage
+Data
+# production
+build
+.firebase
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+
+venv/
+backend/*/__pycache__/*
+TF_IDF_Calculated_Title.obj
+TF_IDF_Calculated_File.obj
+best_classifier.pt
+.ipynb_checkpoints/
